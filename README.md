@@ -2,7 +2,9 @@
 
 <p align="center"><img alt="Parsedown" src="https://i.imgur.com/fKVY6Kz.png" width="240" /></p>
 
-<h1>Parsedown</h1>
+<h1>Parsedown - Compressed</h1>
+
+## 1.8.0-beta-7
 
 [![Build Status](https://travis-ci.org/erusev/parsedown.svg)](https://travis-ci.org/erusev/parsedown)
 [![Total Downloads](https://poser.pugx.org/erusev/parsedown/d/total.svg)](https://packagist.org/packages/erusev/parsedown)
